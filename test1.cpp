@@ -7,6 +7,7 @@
 //enemigo 
 //mejorar mapa 
 #define MAP_WIDTH 640
+#define a 20
 #define MAP_HEIGHT 640
 #define PLAYER_SIZE 64
 #define PLAYER_SPEED 5
